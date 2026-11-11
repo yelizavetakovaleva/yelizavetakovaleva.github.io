@@ -345,7 +345,6 @@ function About() {
   );
 }
 
-/* Чему учу: полноценный разворот */
 function Services() {
   const [o, setO] = useState(0);
   return (
